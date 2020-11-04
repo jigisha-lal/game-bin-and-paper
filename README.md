@@ -1,1 +1,2 @@
-# game-bin-and-paper
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
